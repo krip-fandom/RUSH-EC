@@ -1,1 +1,2 @@
 # RUSH-EC
+Hello!
